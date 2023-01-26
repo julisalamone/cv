@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Rosa",
+                "last": "Jørgensen"
+            },
+            "location": {
+                "street": {
+                    "number": 9306,
+                    "name": "Tåstrupvej"
+                },
+                "city": "V.Skerninge",
+                "state": "Hovedstaden",
+                "country": "Denmark",
+                "postcode": 29687,
+                "coordinates": {
+                    "latitude": "-39.7242",
+                    "longitude": "57.5876"
+                },
+                "timezone": {
+                    "offset": "-10:00",
+                    "description": "Hawaii"
+                }
+            },
+            "email": "rosa.jorgensen@example.com",
+            "login": {
+                "uuid": "c541eee4-3e4a-4e1c-9e8c-a36ea8016ca9",
+                "username": "silvermouse322",
+                "password": "lovebug",
+                "salt": "6rP5eYw3",
+                "md5": "351d8bb065eabb504eb42f3f1fd7026e",
+                "sha1": "2eb4e8616194f6e6417fef9bbfe51a56fbd035cf",
+                "sha256": "b177e299f792d24f72c0f2dad7813a2edae73ad3f6391d97a67d593e324587f4"
+            },
+            "dob": {
+                "date": "1968-11-29T11:38:36.948Z",
+                "age": 54
+            },
+            "registered": {
+                "date": "2020-04-03T22:57:50.143Z",
+                "age": 2
+            },
+            "phone": "50047662",
+            "cell": "41572044",
+            "id": {
+                "name": "CPR",
+                "value": "291168-3581"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+            },
+            "nat": "DK"
+        }
+    ],
+    "info": {
+        "seed": "f8e54cec00995317",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}

@@ -1,0 +1,18 @@
+.container-fluid {
+    background-color: aliceblue;
+
+}
+
+#infocentral {
+    padding: 1rem;
+    border: 2px solid lightblue;
+
+}
+
+#ultimacolumna {
+    background-color: lightblue;
+}
+
+svg {
+    color: dodgerblue;
+}
